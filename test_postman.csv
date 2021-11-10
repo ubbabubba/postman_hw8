@@ -1,0 +1,7 @@
+firstname,lastname,totalprice,depositpaid
+John,Miller,1000,true
+David,Lassen,444,true
+Paul,McCartney,5000,true
+George,Harrison,6000,false
+Madonna,M,700,false
+David,Duchovney,-800,truthisoutthere
